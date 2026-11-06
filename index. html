@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>صفحتي الأولى</title>
+<style>
+body {
+  background-color: pink;
+  text-align: center;
+  font-family: Arial;
+  padding-top: 100px;
+}
+h1 {
+  color: purple;
+  font-size: 40px;
+}
+p {
+  font-size: 22px;
+  color: #333;
+}
+</style>
+</head>
+<body>
+<h1>أهلا يا كاميليا ❤️</h1>
+<p>دي أول صفحة عملتها بنفسي</p>
+</body>
+</html>
